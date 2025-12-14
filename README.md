@@ -1,20 +1,20 @@
-# GitGrade 🚀
+# GitGrade 
 
 GitGrade is a web-based tool that analyzes any public GitHub repository and generates a **score, summary, and improvement roadmap** based on repository quality.
 
 ---
 
-## 🔍 Features
+## Features
 
-- 📊 Repository quality score (out of 100)
-- 📝 Automatic project summary
-- 🗺️ Improvement roadmap suggestions
-- ⭐ Displays stars, forks, commits, files, folders
-- 🌐 Clean and professional web interface
+- Repository quality score (out of 100)
+- Automatic project summary
+- Improvement roadmap suggestions
+- Displays stars, forks, commits, files, folders
+- Clean and professional web interface
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 - **Backend:** Python, Flask
 - **Frontend:** HTML, CSS, JavaScript
@@ -22,9 +22,9 @@ GitGrade is a web-based tool that analyzes any public GitHub repository and gene
 
 ---
 
-## ⚙️ Installation & Setup
+## Installation & Setup
 
-### 1️⃣ Clone the repository
+### Clone the repository
 ```bash
 git clone https://github.com/sri1995-24/gitgrade.git
 cd gitgrade
